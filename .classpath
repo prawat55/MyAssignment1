@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Desktop/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/mimepull.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/jerseyjars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pramod_Rawat/Downloads/jar/RESTFUL/gson-2.2.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
